@@ -4,7 +4,7 @@
 This project is an interactive Excel dashboard designed to analyze customer sales data and transform it into actionable business insights.
 
 ## 📊 Dashboard Preview
-[Dashboard](dashboard.png)
+![Dashboard](dashboard.png)
 
 ## 📊 Dashboard Highlights:
 • Sales trends analysis over time
